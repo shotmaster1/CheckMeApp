@@ -50,3 +50,5 @@ I will use the general tracking ideas and input flow as inspiration, but I plan 
 - [ ] Add a mood and stress scoring system
 - [ ] Show feedback based on the user’s answers
 - [ ] Begin building a weekly summary view
+
+Initial Sprint 1 setup
