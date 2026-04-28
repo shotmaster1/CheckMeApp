@@ -62,3 +62,20 @@ I will not directly use this repository, but I will use its structure and concep
 - [ ] Add a mood and stress scoring system
 - [ ] Show feedback based on the user’s answers
 - [ ] Begin building a weekly summary view
+
+## Sprint 2 Tasks
+
+- [x] Create basic Tkinter application window
+- [x] Add daily mental health checklist questions
+- [x] Capture user responses using checkbox variables
+- [x] Create a simple scoring system
+- [x] Display feedback based on the user’s score
+- [x] Improve interface layout and button labels
+- [x] Add reset button to clear responses
+- [ ] Test application for errors
+- [ ] Add data storage in a future sprint
+- [ ] Add mood history dashboard in a future sprint
+
+## Sprint 2 Progress Notes
+
+During Sprint 2, I began coding the first working version of CheckMe. I used Tkinter to create a basic graphical interface where users can answer mental health check-in questions. I added scoring logic so the program can calculate a simple wellness score and display feedback based on the user’s responses. I also improved the layout and added a reset option so the user can clear the form and complete another check-in.
